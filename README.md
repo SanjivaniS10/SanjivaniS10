@@ -1,104 +1,117 @@
-# 👋 Hi, I'm Sanjivani Suryawanshi  
+<!-- PROFILE HEADER -->
+<h1 align="center">Hi 👋, I'm Sanjivani Suryawanshi</h1>
+<h3 align="center">📊 Data Scirntist and Data Analyst | 🤖 Machine Learning Enthusiast | 🚀 Problem Solver</h3>
 
-🎓 **B.Tech Computer Science (2025)**  
-📊 **Aspiring Data Analyst | Machine Learning Enthusiast**  
-📍 Hyderabad, India  
-
-I am a detail-oriented and passionate Data Analyst with a strong foundation in **Python, SQL, Statistics, Machine Learning, and Data Visualization**. I enjoy transforming raw data into actionable insights and building end-to-end analytical and ML solutions.
+<p align="center">
+  <a href="https://github.com/SanjivaniS10">
+    <img src="https://komarev.com/ghpvc/?username=SanjivaniS10&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
+  </a>
+</p>
 
 ---
 
-## 🧠 Skills & Technologies  
+## 💡 About Me  
+
+- 🎓 **B.Tech in Computer Science (2025)**  
+- 📍 Based in **Hyderabad, India**  
+- 🔍 Passionate about **data-driven decision making**  
+- 🧠 Strong foundation in **Python, SQL, Statistics & Machine Learning**  
+- 📊 Love building **dashboards, ML pipelines & real-world projects**  
+
+---
+
+## 🧰 Tech Stack  
 
 ### 👩‍💻 Programming & Databases  
-- Python  
-- SQL  
-- MySQL  
+<p>
+  <img src="https://skillicons.dev/icons?i=python,mysql,sqlite" />
+</p>
 
-### 📊 Data Analysis & Visualization  
-- Pandas, NumPy  
-- Exploratory Data Analysis (EDA)  
-- Power BI  
-- Matplotlib, Seaborn  
+### 📊 Data Analytics & Visualization  
+<p>
+  <img src="https://skillicons.dev/icons?i=pandas,numpy" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+</p>
 
 ### 🤖 Machine Learning & AI  
-- Supervised & Unsupervised Learning  
-- Ensemble Techniques  
-- SVM, Regression, Classification  
+- Regression, Classification, Clustering  
+- SVM, Ensemble Models  
 - Neural Networks (Basics)  
-- Deep Learning (Fundamentals)  
+- End-to-End ML Pipelines  
 
-### 📐 Statistics  
-- Probability  
-- Hypothesis Testing  
-- Statistical Analysis  
-
-### 🛠️ Tools & Platforms  
-- MLflow (Model Tracking)  
-- Jupyter Notebook, Google Colab  
-- Git & GitHub  
-- PyCharm, VS Code  
+### 🛠 Tools & Platforms  
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter,pycharm" />
+</p>
 
 ---
 
-## 🚀 Projects  
+## 🚀 Featured Projects  
 
 ### 🎬 Movie Recommender System  
-- Content-based recommendation using **cosine similarity**  
-- Feature engineering on movie metadata  
-- Integrated **TMDB API** for real-time posters & ratings  
-- Built with **Python + Streamlit**  
-🔗 [GitHub Repo](https://github.com/SanjivaniS10/movie-recommender-system)
+🔹 Content-based recommendations using **Cosine Similarity**  
+🔹 Integrated **TMDB API** for real-time movie data  
+🔹 Interactive **Streamlit Web App**  
+🔗 [View Repository](https://github.com/SanjivaniS10/movie-recommender-system)
 
 ---
 
-### 🏠 End-to-End Machine Learning Pipeline (Housing Dataset)  
-- Complete ML workflow: data cleaning → EDA → feature engineering → modeling  
-- Trained and evaluated multiple ML models  
-- Ensured reproducibility and scalability  
-- Tools: Pandas, NumPy, Scikit-learn, TensorFlow  
-
----
-
-### 🏦 Smart Banking Database Management System  
-- Built using **Python + SQLite**  
-- Managed customers, accounts, transactions  
-- Implemented deposits, withdrawals & statement generation  
-- Used **tabulate** for clean database output  
-🔗 [GitHub Repo](https://github.com/SanjivaniS10/Smart-Bank-database-management-)
+### 🏠 End-to-End Machine Learning Pipeline  
+🔹 Data cleaning, EDA, feature engineering & modeling  
+🔹 Multiple ML models with performance evaluation  
+🔹 Reproducible workflow  
+🔹 Tools: Pandas, NumPy, Scikit-learn, TensorFlow  
 
 ---
 
 ### 🍷 Wine Fraud Detection  
-- Fraud classification using **Support Vector Machine (SVM)**  
-- Handled imbalanced data with preprocessing & scaling  
-- Streamlit app for real-time predictions  
-🔗 [GitHub Repo](https://github.com/SanjivaniS10/Wine-fraud-Detection)
+🔹 Fraud classification using **Support Vector Machine (SVM)**  
+🔹 Handled imbalanced dataset  
+🔹 Streamlit app for live predictions  
+🔗 [View Repository](https://github.com/SanjivaniS10/Wine-fraud-Detection)
 
 ---
 
-### ☕ Monday Cafe Sales Dashboard (Power BI)  
-- Interactive dashboard using **DAX & Power Query**  
-- Week-wise sales analysis (Mon–Sun)  
-- KPIs: Total Sales, Orders, Top Products  
-🔗 [GitHub Repo](https://github.com/SanjivaniS10/Monday-Caffe-Dashboard)
+### ☕ Monday Cafe Sales Dashboard  
+🔹 Interactive **Power BI Dashboard**  
+🔹 Week-wise (Mon–Sun) sales insights using DAX  
+🔹 KPIs, slicers & business insights  
+🔗 [View Repository](https://github.com/SanjivaniS10/Monday-Caffe-Dashboard)
 
 ---
 
 ## 📜 Certifications  
-- Level Up – Data Science (Python, ML, Visualization)  
-- Skill Nation – AI Power BI Dashboard Workshop  
-- 30 Days Power BI Micro Course  
+✔ Level Up – Data Science (Python, ML, Visualization)  
+✔ Skill Nation – AI Power BI Dashboard Workshop  
+✔ 30 Days Power BI Micro Course  
 🔗 [Certificates](https://github.com/SanjivaniS10/certificates)
 
 ---
 
-## 📫 Connect With Me  
+## 📊 GitHub Stats  
 
-- 📧 Email: **sanjivanisantosh10@gmail.com**  
-- 💼 LinkedIn: [View Profile](https://www.linkedin.com/)  
-- 💻 GitHub: [SanjivaniS10](https://github.com/SanjivaniS10)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SanjivaniS10&show_icons=true&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SanjivaniS10&theme=tokyonight" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SanjivaniS10&layout=compact&theme=tokyonight"/>
+</p>
 
 ---
 
-⭐ *Feel free to explore my repositories and connect with me!*  
+## 🤝 Connect With Me  
+
+<p align="center">
+  <a href="https://www.linkedin.com/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:sanjivanisantosh10@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+<h3 align="center">✨ Turning Data into Insights | Learning Never Stops ✨</h3>
