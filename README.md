@@ -1,6 +1,6 @@
 <!-- PROFILE HEADER -->
 <h1 align="center">Hi 👋, I'm Sanjivani Suryawanshi</h1>
-<h3 align="center">📊 Data Scirntist and Data Analyst | 🤖 Machine Learning Enthusiast | 🚀 Problem Solver</h3>
+<h3 align="center">📊 Data Scientist and Data Analyst | 🤖 Machine Learning Enthusiast | 🚀 Problem Solver</h3>
 
 <p align="center">
   <a href="https://github.com/SanjivaniS10">
@@ -29,7 +29,7 @@
 
 ### 📊 Data Analytics & Visualization  
 <p>
-  <img src="https://skillicons.dev/icons?i=pandas,numpy" />
+  <img src="https://skillicons.dev/icons?i=pandas,numpy,matplotlib" />
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
 </p>
 
@@ -92,7 +92,6 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SanjivaniS10&show_icons=true&theme=tokyonight" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SanjivaniS10&theme=tokyonight" height="170"/>
 </p>
 
 <p align="center">
